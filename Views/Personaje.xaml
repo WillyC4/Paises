@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Paises.Views.Personaje"
+             Title="Personaje">
+
+
+    <VerticalStackLayout>
+
+        <Image Source="https://static.wikia.nocookie.net/nintendo-news/images/0/09/Kirby-star2.png/revision/latest?cb=20181011142828" />
+
+        <!--
+        
+        <TextBox Text="A mi, Willy Corrales me gusta kirby ya que es un personaje muy divertido y que puede mutar comiendose cualquier cosa que se le aparezca, ademas su juego me parece muy divertido." Margin="5"/>
+
+
+        <Button  x:Name="Regreso"
+         Text="Regresar a Main" 
+         Clicked="btnRegreso" />
+-->
+        
+    </VerticalStackLayout>
+
+</ContentPage>
